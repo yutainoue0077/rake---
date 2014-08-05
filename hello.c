@@ -1,7 +1,7 @@
 #include <stdio.h>
-void out();
+void word();
 int main(void){
 	printf("hello ");
-  out();
+	word();
 	return 0;
 }

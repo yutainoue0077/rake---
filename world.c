@@ -1,4 +1,4 @@
 #include <stdio.h>
-void out(){
+void word(){
 	printf("world!!\n");
 }
